@@ -20,8 +20,6 @@ Use Z,Q,S,D for move and ENTER for fire... **obviously**
 
 * only SFML
 <br>
-<br>
-
 
 ## Compile and run
 
