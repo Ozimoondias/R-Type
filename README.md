@@ -1,7 +1,8 @@
 # R-Type
-<br>
 R-Type is the last **C++ project** of the third **_Epitech_** year!
 <br>
+<br>
+
 <img src="https://user-images.githubusercontent.com/37185476/55369404-b95bcd00-54f6-11e9-9c87-5cec50dae2a6.gif" width="700">
 <br>
 <br>
