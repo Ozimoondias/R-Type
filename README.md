@@ -13,7 +13,6 @@ R-Type is the last **C++ project** of the third **_Epitech_** year!
 
 Use Z,Q,S,D for move and ENTER for fire... **obviously**
 <br>
-<br>
 
 ## Dependencies
 
