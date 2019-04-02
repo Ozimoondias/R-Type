@@ -16,7 +16,8 @@ Use Z,Q,S,D for move and ENTER for fire... **obviously**
 
 ## Dependencies
 
-* only SFML
+Only SFML
+<br>
 
 ## Compile and run
 
